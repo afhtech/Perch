@@ -1,6 +1,6 @@
 #define AppName        "Perch"
 #define AppPublisher   "Mathias Andresen"
-#define AppUrl         "https://github.com/MatternPL/Perch"
+#define AppUrl         "https://github.com/afhtech/Perch"
 #define AppExeName     "Perch.exe"
 
 #ifndef AppVersion

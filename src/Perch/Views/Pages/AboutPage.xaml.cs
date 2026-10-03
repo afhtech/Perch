@@ -9,7 +9,7 @@ namespace Perch.Views.Pages;
 
 public partial class AboutPage : Page
 {
-    private const string RepositoryUrl = "https://github.com/MatternPL/Perch";
+    private const string RepositoryUrl = "https://github.com/afhtech/Perch";
 
     public AboutPage()
     {

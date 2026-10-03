@@ -4,8 +4,6 @@ Pin windows on top and open apps on the monitor you want.
 
 Free, no telemetry. Runs in the tray.
 
-[![Buy me a beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=%F0%9F%8D%BA&slug=mattern&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/mattern)
-
 ## Download
 
 Get the **PerchSetup** installer from the [latest release](../../releases/latest). It installs for your
@@ -56,12 +54,9 @@ The files end up in `dist/`.
 
 Settings are stored in `%APPDATA%\Perch\config.json`.
 
-## Support
+## See also
 
-Perch is free. If you find it useful, you can
-[buy me a beer](https://www.buymeacoffee.com/mattern).
-
-Also check out [Brisk](https://github.com/MatternPL/Brisk).
+Also check out [Brisk](https://github.com/afhtech/Brisk).
 
 ## License
 
